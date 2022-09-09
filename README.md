@@ -2,6 +2,10 @@
 
 # <h1 align="center">Hi, I'm <a href="https://github.com/alexshaoo">Alex Shao</a></h1>
 
+<p align="center">
+    <img width="1000" height="300" src="https://github.com/alexshaoo/alexshaoo/blob/main/me.jpg">
+</p
+
 <div>
   <strong>About Me:</strong><br>
   💻 I’m currently a 2nd year undergraduate student studying at the University of Waterloo.<br>
