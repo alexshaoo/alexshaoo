@@ -9,7 +9,7 @@
 <div>
   <strong>About Me:</strong><br>
   💻 I’m currently a 2nd year undergraduate student studying at the University of Waterloo.<br>
-  📈 I have experience in Competitive Programming, as well as languages such as Python, Java, C/C++, and JS/TS.<br>
+  📈 I have experience in Competitive Programming, Web Development, and Game Dev.<br>
   📫 Reach me at <a href="mailto:qwshao@uwaterloo.ca">qwshao@uwaterloo.com</a> (school) or <a href="mailto:alexshao90@gmail.com">alexshao90@gmail.com</a> (personal).<br>
   😄 Find me on <a href="https://www.linkedin.com/in/qwshao/">Linkedin</a>.<br>
   🤔 You can find my resume <a href="https://github.com/alexshaoo/alexshaoo/blob/main/resume.png?raw=true">here</a>.<br><br><br>
