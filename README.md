@@ -3,7 +3,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/alexshaoo">Alex Shao</a></h1>
 
 <p align="center">
-    <img width="1000" height="300" src="https://github.com/alexshaoo/alexshaoo/blob/main/me.jpg">
+    <img width="1000" height="200" src="https://github.com/alexshaoo/alexshaoo/blob/main/me.jpg">
 </p
 
 <div>
