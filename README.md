@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # <h1 align="center">Hi, I'm <a href="https://github.com/alexshaoo">Alex Shao</a></h1>
 
 <p align="center">
