@@ -5,7 +5,7 @@
   💻 I’m currently a 2nd year undergraduate student studying at the University of Waterloo.<br>
   📈 I have experience in Competitive Programming, Web Development, and Game Dev.<br>
   📫 Reach me at <a href="mailto:qwshao@uwaterloo.ca">qwshao@uwaterloo.com</a> (school) or <a href="mailto:alexshao90@gmail.com">alexshao90@gmail.com</a> (personal).<br>
-  😄 Find me on <a href="https://www.linkedin.com/in/qwshao/">Linkedin</a>.<br>
+  😄 Find me on <a href="https://www.linkedin.com/in/qwshao/">Linkedin</a>.<br><br><br>
 
   <strong>📊 My Github Stats :</strong><br><br>
   [<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexshaoo&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=alexshaoo&theme=tokyonight_duo"/><br><br>](https://github-readme-streak-stats.herokuapp.com)<br>
