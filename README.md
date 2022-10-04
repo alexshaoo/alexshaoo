@@ -8,10 +8,8 @@
   😄 Find me on <a href="https://www.linkedin.com/in/qwshao/">Linkedin</a>.<br><br><br>
 
   <strong>📊 My Github Stats :</strong><br><br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexshaoo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   [<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexshaoo&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=alexshaoo&theme=tokyonight_duo"/>](https://github-readme-streak-stats.herokuapp.com)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=alexshaoo&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexshaoo&langs_count_private=true&theme=radical&card_width=445)<br><br>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=alexshaoo&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
