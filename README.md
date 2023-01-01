@@ -1,4 +1,4 @@
-<a text-align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+Alex+Shao." alt="Typing SVG"/></a>
+<a text-align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+Alex+Shao." width=5000 alt="Typing SVG"/></a>
 
 <div>
   <strong>About Me:</strong><br>
