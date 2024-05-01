@@ -3,7 +3,7 @@
 <div>
   <strong>About Me:</strong><br>
   💻 I’m currently a 3rd year Software Engineering student studying at the University of Waterloo<br>
-  📈 I have experience in Competitive Programming and Game/Web Development, looking to learn more about the topic of Quantitative Finance as a whole<br>
+  📈 I have experience in Competitive Programming and Game/Web Development, looking to learn more about software as a whole<br>
   📫 Reach me at <a href="mailto:qwshao@uwaterloo.ca">qwshao@uwaterloo.ca</a><br>
   😄 Find me on <a href="https://www.linkedin.com/in/qwshao/">Linkedin</a><br>
   👨🏼‍💻 Personal Website coming soon (not)<br><br>
