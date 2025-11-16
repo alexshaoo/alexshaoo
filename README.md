@@ -10,7 +10,7 @@
 
   <strong>📊 My Github Stats:</strong><br><br>
   [<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexshaoo&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=alexshaoo&theme=tokyonight_duo"/>](https://github-readme-streak-stats.herokuapp.com)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=alexshaoo&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=alexshaoo&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
