@@ -6,11 +6,7 @@
   📈 I have experience in Competitive Programming and Game/Web Development, looking to learn more about software as a whole<br>
   📫 Reach me at <a href="mailto:qwshao@uwaterloo.ca">qwshao@uwaterloo.ca</a><br>
   😄 Find me on <a href="https://www.linkedin.com/in/qwshao/">Linkedin</a><br>
-  👨🏼‍💻 Personal Website coming soon (not)<br><br>
-
-  <strong>📊 My Github Stats:</strong><br><br>
-  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexshaoo&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=alexshaoo&theme=tokyonight_duo"/>](https://github-readme-streak-stats.herokuapp.com)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=alexshaoo&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
+  👨🏼‍💻 Personal Website (not) coming soon<br><br>
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
